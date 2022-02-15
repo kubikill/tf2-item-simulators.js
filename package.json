@@ -1,0 +1,18 @@
+{
+  "name": "tf2-crate-sim",
+  "version": "0.0.1",
+  "description": "A JavaScript library for simulating opening Team Fortress 2 crates.",
+  "source": "src/index.ts",
+  "main": "dist/main.js",
+  "module": "dist/module.js",
+  "types": "dist/types.d.ts",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "author": "Jakub Topoliński",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.3.1"
+  }
+}
