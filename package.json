@@ -13,6 +13,7 @@
   "author": "Jakub Topoliński",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.3.1"
+    "parcel": "^2.3.1",
+    "prettier": "^2.5.1"
   }
 }
